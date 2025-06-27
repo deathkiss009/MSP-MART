@@ -1,0 +1,13 @@
+
+{
+  "name": "mps-mart",
+  "version": "1.0.0",
+  "description": "MPS Mart Full Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
